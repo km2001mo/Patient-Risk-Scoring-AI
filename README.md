@@ -66,26 +66,7 @@ Example outputs include:
 - Feature importance chart
 - Detailed patient risk report
 
----
 
-## Project Structure 
-
-Patient-Risk-Scoring-AI/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ ├── 03_model_training.ipynb
-│ ├── 04_risk_scoring.ipynb
-│ └── 05_model_explainability.ipynb
-├── src/
-├── results/
-│ ├── figures/
-│ └── reports/
-└── README.md
 
 ---
 
